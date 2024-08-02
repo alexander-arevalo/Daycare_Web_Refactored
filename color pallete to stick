@@ -1,0 +1,12 @@
+#5375e2	RGB(83, 117, 226)	—	—
+#7791a1	RGB(119, 145, 161)	—	—
+#f65868	RGB(246, 88, 104)	—	—
+#f3aa92	RGB(243, 170, 146)	—	—
+#5c616e	RGB(92, 97, 110)	—	—
+#fefefe	RGB(254, 254, 254)	—	White as heaven
+
+This will serve as my documentation for now 
+
+1. I create the nextJS application using npx create-next-app@latest and install the necessary dependency using npm install
+2. I search for color palette that I will be using throughout the process
+3. I will try to create the figma design for my website the improve version of my current daycare center
